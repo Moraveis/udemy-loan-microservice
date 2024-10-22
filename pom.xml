@@ -82,10 +82,6 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<image>
-						<name>joaovitormoraveis/study-microservice-loans:${version}</name>
-
-					</image>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
