@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans API"
+  message: "Prod - Welcome to Loans API"
   contact-details:
     name: "Joao Vitor"
     email: "test@test.com"
