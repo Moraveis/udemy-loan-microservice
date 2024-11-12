@@ -1,6 +1,10 @@
 server:
   port: 8081
 
+logging:
+  level:
+    course.udemy.springboot.loans: DEBUG
+
 spring:
   application:
     name: loans
